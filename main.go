@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/amrutha15022/S20210010023_HPC_PROJECT/pagerank"
+	 "github.com/amrutha15022/S20210010023_HPC_PROJECT/pagerank"
 )
 
 func main() {
